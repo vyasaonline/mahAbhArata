@@ -1,0 +1,9 @@
+-
+  scope:
+    pathPrefix: ""
+  values:
+    layout: "page"
+    comments: true
+    search: true
+    sidebar: main_sidebar
+    unicode_script: kannada
