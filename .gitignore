@@ -2,3 +2,4 @@
 /resources
 build_github
 *_local*
+*.iml
