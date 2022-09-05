@@ -1,5 +1,5 @@
 +++
-title = "೦೦೪ ಪೌಲೋಮ ಪರ್ವ"
+title = "ಅಧ್ಯಾಯ 4"
 +++
 
 <details><summary>ಪ್ರವೇಶ</summary>
