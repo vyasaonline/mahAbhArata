@@ -1,5 +1,5 @@
 +++
-title = "ಅಧ್ಯಾಯ 4"
+title = "ಅಧ್ಯಾಯ 4: ಕಥಾಪ್ರವೇಶ"
 +++
 
 <details><summary>ಪ್ರವೇಶ</summary>
@@ -13,7 +13,6 @@ title = "ಅಧ್ಯಾಯ 4"
 </details>
 
 **4**
-**ಚ್ಯವನನ ಜನನ, ಪುಲೋಮ ಸಂಹಾರ ಮತ್ತು ಅಗ್ನಿಶಾಪ**
 
 <details><summary>ಸಾರ</summary>
 
