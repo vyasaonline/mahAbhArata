@@ -1,5 +1,5 @@
 +++
-title = "೦೧೮ ಹರಣಹಾರಿಕ ಪರ್ವ"
+title = "018 ಹರಣಹಾರಿಕ ಪರ್ವ"
 +++
 
 <details><summary>ಪ್ರವೇಶ</summary>

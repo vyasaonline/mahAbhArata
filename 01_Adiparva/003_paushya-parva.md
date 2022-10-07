@@ -1,5 +1,5 @@
 +++
-title = "೦೦೩ ಪೌಷ್ಯ ಪರ್ವ"
+title = "003 ಪೌಷ್ಯ ಪರ್ವ"
 +++
 
 <details><summary>ಪ್ರವೇಶ</summary>

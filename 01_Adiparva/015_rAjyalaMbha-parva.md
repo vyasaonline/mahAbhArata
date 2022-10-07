@@ -1,5 +1,5 @@
 +++
-title = "೦೧೫ ರಾಜ್ಯಲಂಭ ಪರ್ವ"
+title = "015 ರಾಜ್ಯಲಂಭ ಪರ್ವ"
 +++
 
 <details><summary>ಪ್ರವೇಶ</summary>
