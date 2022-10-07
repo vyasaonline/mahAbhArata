@@ -1,5 +1,5 @@
 +++
-title = "೦೬ ಜಟಾಸುರವಧ ಪರ್ವ"
+title = "034 ಜಟಾಸುರವಧ ಪರ್ವ"
 +++
 
 <details><summary>ಪ್ರವೇಶ</summary>
