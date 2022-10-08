@@ -1,5 +1,5 @@
 +++
-title = "೦೨ ಕಿರ್ಮೀರವಧ ಪರ್ವ"
+title = "030 ಕಿರ್ಮೀರವಧ ಪರ್ವ"
 +++
 
 <details><summary>ಪ್ರವೇಶ</summary>
