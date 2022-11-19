@@ -40,6 +40,8 @@
   </url><url>
     <loc>https://vyasaonline.github.io/mahAbhArata/15_AshramavAsikaparva/90_AshramavAsa-parva/001/</loc>
   </url><url>
+    <loc>https://vyasaonline.github.io/mahAbhArata/17_mahAprasthAnikaparva/94_mahAprasthAnika-parva/001/</loc>
+  </url><url>
     <loc>https://vyasaonline.github.io/mahAbhArata/14_ashvamEdhikaparva/89_ashvamEdhika-parva/001/</loc>
   </url><url>
     <loc>https://vyasaonline.github.io/mahAbhArata/07_drONaparva/065_drONAbhishEka-parva/002/</loc>
@@ -2364,8 +2366,6 @@
   </url><url>
     <loc>https://vyasaonline.github.io/mahAbhArata/01_Adiparva/007_saMbhava-parva/091/</loc>
   </url><url>
-    <loc>https://vyasaonline.github.io/mahAbhArata/16_mausalaparva/93_mausala-parva/</loc>
-  </url><url>
     <loc>https://vyasaonline.github.io/mahAbhArata/05_udyOgaparva/054_bhagavadyAna-parva/091/</loc>
   </url><url>
     <loc>https://vyasaonline.github.io/mahAbhArata/07_drONaparva/069_jayadrathavadha-parva/091/</loc>
@@ -2400,6 +2400,8 @@
   </url><url>
     <loc>https://vyasaonline.github.io/mahAbhArata/06_bhIshmaparva/064_bhIshmavadha-parva/093/</loc>
   </url><url>
+    <loc>https://vyasaonline.github.io/mahAbhArata/16_mausalaparva/93_mausala-parva/</loc>
+  </url><url>
     <loc>https://vyasaonline.github.io/mahAbhArata/03_aranyakaparva/033_tIrthayAtrA-parva/093/</loc>
   </url><url>
     <loc>https://vyasaonline.github.io/mahAbhArata/12_shAMtiparva/084_rAjadharma-parva/093/</loc>
@@ -2413,6 +2415,8 @@
     <loc>https://vyasaonline.github.io/mahAbhArata/05_udyOgaparva/054_bhagavadyAna-parva/094/</loc>
   </url><url>
     <loc>https://vyasaonline.github.io/mahAbhArata/06_bhIshmaparva/064_bhIshmavadha-parva/094/</loc>
+  </url><url>
+    <loc>https://vyasaonline.github.io/mahAbhArata/17_mahAprasthAnikaparva/94_mahAprasthAnika-parva/</loc>
   </url><url>
     <loc>https://vyasaonline.github.io/mahAbhArata/03_aranyakaparva/033_tIrthayAtrA-parva/094/</loc>
   </url><url>
@@ -4179,5 +4183,7 @@
     <loc>https://vyasaonline.github.io/mahAbhArata/15_AshramavAsikaparva/</loc>
   </url><url>
     <loc>https://vyasaonline.github.io/mahAbhArata/16_mausalaparva/</loc>
+  </url><url>
+    <loc>https://vyasaonline.github.io/mahAbhArata/17_mahAprasthAnikaparva/</loc>
   </url>
 </urlset>
